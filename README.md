@@ -2,6 +2,9 @@
 
 A responsive React + Vite recreation of the AURA interface, upgraded with a waste-focused assistant with a built-in offline knowledge base, optional Gemini enhancement, and image-based waste analysis.
 
+# LIVE DEMO LINK
+https://aura-eco.netlify.app/
+
 ## What is actually AI-powered now?
 
 - **Ask → AURA Eco-Assistant:** works **without any API key** using a built-in waste knowledge base. It is strictly limited to waste and waste-management topics and politely refuses unrelated questions. If Gemini is configured, it can optionally add a more flexible AI answer for waste questions not covered specifically by the built-in knowledge base.

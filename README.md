@@ -2,7 +2,7 @@
 
 A responsive React + Vite recreation of the AURA interface, upgraded with a waste-focused assistant with a built-in offline knowledge base, optional Gemini enhancement, and image-based waste analysis.
 
-# LIVE DEMO LINK
+## LIVE DEMO LINK
 https://aura-eco.netlify.app/
 
 ## What is actually AI-powered now?
